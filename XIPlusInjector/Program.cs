@@ -9,7 +9,7 @@ namespace XIPlusInjector
     {
 
         /// <summary>
-        /// Structure of XInputPlusLoaderStrring 
+        /// Structure of XInputPlusLoaderSetting 
         /// </summary>
         [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Unicode)]
         class XInputPlusLoaderSetting
