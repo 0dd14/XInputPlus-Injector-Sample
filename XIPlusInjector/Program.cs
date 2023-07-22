@@ -14,7 +14,7 @@ namespace XIPlusInjector
         [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Unicode)]
         class XInputPlusLoaderSetting
         {
-            /* C/C+ Struct
+            /* C/C++ Struct
             typedef struct XInputPlusLoaderSetting
             {
                 WCHAR LoaderDLL32[MAX_PATH];
