@@ -36,7 +36,7 @@ the folder structure is as follows.
 ### Execute program
 Execute on following command line
 ~~~
-XInputplusInjector [TargetProcessID]
+XIPlusInjector [TargetProcessID]
 ~~~
 
 ## Note
