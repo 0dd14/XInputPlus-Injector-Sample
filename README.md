@@ -3,7 +3,7 @@
 This is a sample program to inject XInputplus (https://0dd14lab.net/bin/xinputplus) into a running process.
 
 ## Description
-InjectorDLL "XInputPlusIncjetor.dll" included with XInputPlus has an internal implementation of inject function into the running process.  
+InjectorDLL "XInputPlusInjector.dll" included with XInputPlus has an internal implementation of inject function into the running process.  
 
 Follow steps below to use it. 
   
@@ -40,4 +40,5 @@ XIPlusInjector [TargetProcessID]
 ~~~
 
 ## Note
-Successful injection of XInputplus depends on the target program. Not all programs will be injected successfully.
++ Successful injection of XInputplus depends on the target program. Not all programs will be injected successfully.
++ This function of XInputplusInjector is for internal processing. This functionality is subject to change with XInputPlus version upgrades.
