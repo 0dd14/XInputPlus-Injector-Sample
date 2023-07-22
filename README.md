@@ -10,7 +10,7 @@ Follow steps below to use it.
 1. Write the location paths of injector DLLs, XInputPlus DLLs, and other settings in a memory maped file.  
 2. Call "HookProcss" function of injectorDLL.
    
-## Usage this sample
+## Usage
 When running this program, you will need to place the files as follows
 
 1. copy  ***"x86"*** and ***"x64"*** folders of XInputPlus package in same folder as this program. 
